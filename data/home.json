@@ -1,0 +1,63 @@
+{
+    "top_products": [
+        {
+            "id": 1,
+            "type": "cat",
+            "label": "Grumpy Cat",
+            "price": {
+                "amount": 129.99,
+                "currency": "EUR",
+                "currency_short": "€"
+            },
+            "media": [
+                {
+                    "url": "images/products/1-64x64.jpg",
+                    "width": 64,
+                    "height": 64
+                },
+                {
+                    "url": "images/products/1-128x128.jpg",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "url": "images/products/1-256x256.jpg",
+                    "width": 256,
+                    "height": 256
+                },
+                {
+                    "url": "images/products/1-512x512.jpg",
+                    "width": 512,
+                    "height": 512
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "type": "cat",
+            "label": "A really long cat",
+            "price": {
+                "amount": 159.99,
+                "currency": "EUR",
+                "currency_short": "€"
+            },
+            "media": [
+                {
+                    "url": "images/products/2-64x64.jpg",
+                    "width": 64,
+                    "height": 64
+                },
+                {
+                    "url": "images/products/2-128x128.jpg",
+                    "width": 128,
+                    "height": 128
+                },
+                {
+                    "url": "images/products/2-256x256.jpg",
+                    "width": 256,
+                    "height": 256
+                }
+            ]
+        }
+    ]
+}
